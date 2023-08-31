@@ -134,4 +134,7 @@ body {
     right: 15px;
   }
   
+  .loader {
+    width: 100%;
+  }
 }
